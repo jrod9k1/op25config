@@ -1,0 +1,2 @@
+Sysname	Control Channel List	Offset	NAC	Modulation	TGID Tags File	Whitelist	Blacklist	Center Frequency
+Philadelphia Zone 2	853.5375,853.3125,853.3375,853.5625	0	0	cqpsk	philadelphia/tags_phl.tsv	23,31,25		

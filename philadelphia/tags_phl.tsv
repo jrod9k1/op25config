@@ -1,0 +1,246 @@
+1	PPD FarNE
+3	PPD NEast
+5	PPD NCentrl
+7	PPD Central
+9	PPD South 1
+11	PPD SWest
+13	PPD West
+15	PPD North
+17	PPD NWest
+19	PPD East 1
+21	PPD East 2
+23	PPD JBand
+25	PPD TBand
+27	PPD MBand
+29	PPD South 2
+31	PPD Events 1
+33	PPD Events 2
+35	PPD Academy
+37	PPD CvAffair
+39	PPD Command
+41	PPD Dig Unit
+43	PPD HSIU
+45	PPD HLine
+47	PPD HFug
+49	PPD Impact 1
+51	PPD Impact 2
+53	PPD Impact 3
+55	PPD CW IAB 1
+57	PPD CW IAB 2
+59	PPD ICntrl
+61	PPD EOD
+63	PPD OCB
+65	PPD Aviation
+67	PPD SWAT
+69	PPD Warrant
+71	PPD ATG
+73	PPD IAB Sq10
+75	PPD IAB Sq11
+77	PPD IAB Sq12
+79	PPD IAB Sq13
+81	PPD IAB Sq14
+83	PPD Invest 1
+85	PPD Invest 2
+87	PPD Vice 1
+89	PPD Vice 2
+91	PPD ATF CF
+93	PPD MCD 1
+95	PPD MCD 2
+97	PPD MCD 3
+99	PPD NFU S1
+101	PPD NFU S2
+103	PPD NFU S3
+105	PPD NFU E1
+107	PPD NFU E2
+109	PPD NFU E3
+111	PPD NFU E4
+113	PPD NFU N1
+115	PPD NFU N2
+117	PPD NFU N3
+119	PPD Strike 1
+121	PPD Strike 2
+123	PPD Strike 3
+125	PPD CW NI 1
+127	PPD CW NI 2
+129	PPD CW NI 3
+131	PPD 2nd Tac
+135	PPD AutoThft
+139	PPD 6th Tac
+141	PPD 7th Tac
+143	PPD 8th Tac
+145	PPD 9th Tac
+147	PPD 12th Tac
+149	PPD 16th Tac
+153	PPD 18th Tac
+155	PPD 19th Tac
+157	PPD 22nd Tac
+159	PPD 39th Tac
+161	PPD 14th Tac
+163	PPD 15th Tac
+165	PPD 24th Tac
+167	PPD 25th Tac
+169	PPD 26th Tac
+171	PPD 35th Tac
+181	Abington ER
+183	Frankford ER
+185	Torresdale ER
+187	Chestnut Hill ER
+189	CHOP ER
+191	Einstein ER
+195	Episcopal ER
+199	Holy Redeemer ER
+201	HUP ER
+203	Jeanes ER
+205	Lankenau ER
+207	Mercy Fitzgerald
+209	Mercy Philly ER
+211	Methodist ER
+213	Nazareth ER
+215	Presbyterian ER
+217	Pennsy ER
+219	Roxborough ER
+221	St Chris ER
+223	Temple ER
+225	Jefferson ER
+235	PFD Cent Medic
+237	PFD North Fire
+239	PFD South Fire
+241	PFD North Medic
+243	PFD South Medic
+245	PFD South Tac 1
+247	PFD South Tac 2
+249	PFD South Tac 3
+251	PFD Admin
+253	PFD North Tac 1
+255	PFD North Tac 2
+257	PFD North Tac 3
+259	PFD ATG
+261	PPDPFD 1
+263	PPDPFD 2
+265	PFD Rescue
+267	PFD HazMat
+269	PDA Ops 1
+271	PSO ATG
+273	CW EOC 1
+275	CW EOC 2
+277	CW EOC 3
+279	CW EOC ATG
+281	PHL Police
+283	PHL Fire Main
+285	PHL Emergency 1
+287	PHL SystemsCntrl
+289	PHL Exec Ops
+291	PHL Ops
+293	PNE Ops
+295	PHL Engineer
+297	PHL Maint 1
+299	PHL Maint 2
+301	PHL Maint 3
+303	PHL Spec Ops 1
+305	PHL Spec Ops 2
+309	PHL Emergency 2
+311	PHL Fire E78
+313	PWD Dispatch
+315	Fleet Disp
+319	PubProp Disp
+321	Mun Dispatch
+323	City Event 1
+325	City Event 2
+327	City Event 3
+331	LI Dispatch
+335	PSO Dispatch
+337	PWD SWWPCP 1
+339	PWD Ops Adm
+341	PDA NARC
+343	PDA Invest
+345	PWD Ind Waste
+347	PWD Collector Cn
+349	PWD Sewer
+351	PWD Inlet
+353	PWD Flow
+355	PWD Security
+357	PWD Conv
+359	PWD Load
+361	PWD Dist ESS
+363	PWD Pump
+365	PWD Common
+367	PWD Queen Ln
+369	Fleet Admin 1
+371	Fleet Admin 2
+373	Fleet Admin 3
+375	Fleet QA Team
+377	Fleet Distrib
+379	Fleet Ops 1
+381	Fleet Ops 2
+401	Mayor Office
+403	PubProp E1
+405	PubProp E2
+421	Phila Sanitation
+445	LI Admin
+447	LI Ops 1
+449	LI Ops 2
+453	Prison Transport
+459	PSO Ops
+461	PSO Warrants
+463	PWD ATG
+465	PDA ATG
+467	PWD Ops Collect
+469	PWD Ops ATG
+471	FJD Warrant Unit
+473	FJD Dispatch
+475	PHL Comm Ctr
+477	PDA Ops 2
+483	Health ATG
+485	Fleet ATG
+493	PubProp ATG
+503	LI ATG
+515	Health Disp
+517	Health Med Ex
+519	Health EHS
+521	Health HFAC
+523	Health AQM
+525	Prison Engineer
+527	Prison Emergency
+531	Prison ASD
+533	Prison All
+535	PSO Admin
+537	Fleet Exec
+559	PCA Riverview
+565	PWD Belmont 1
+567	PWD Belmont 2
+570	Mot Tech A
+571	Mot Tech B
+572	Mot Tech C
+573	Mot Tech D
+574	Mot Tech E
+575	Mot Tech F
+603	PSD Bus Passyunk
+605	PSD Bus Shallcrs
+607	PSD Bus Widener
+609	PSD Bus Alt Base
+611	PSD Bus Superv
+613	PSD Police
+615	PSD Security
+617	PSD Ops
+619	PSD Cross Guards
+630	DUPD Disp
+701	PSO Family Court
+805	PGW 805
+807	PGW 807
+809	PGW 809
+815	PGW 815
+817	PGW 817
+837	PFD Dispatch
+1001	PHA Police 1
+1003	PHA Police 2
+1301	PPA 1
+1303	PPA 2
+1305	PPA  3
+1535	Prison CFCF
+1539	Prison DC
+1541	Prisons PICC
+1543	Prison RCF
+1707	PSO CJC Security
+1711	PSO Fam Court 1
+1713	PSO Fam Court 2
+4017	SEPTA PD Disp

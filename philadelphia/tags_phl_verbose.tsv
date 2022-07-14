@@ -1,0 +1,246 @@
+1	Far NorthEast Division 7th and 8th Districts
+3	NorthEast Division 2nd and 15th Districts
+5	NorthCentral Division 22nd District
+7	Central Division 6th and 9th Districts
+9	South Division 1 1st 3rd and 17th Districts
+11	SouthWest Division 12th and 18th Districts
+13	West Division 16th and 19th Districts
+15	North Division 14th and 35th Districts
+17	NorthWest Division 5th and 39th Districts
+19	East Division 1 24th and 26th Districts
+21	East Division 2 25th District
+23	CityWide Emergency
+25	CityWide Traffic Operations
+27	CityWide Administrative Operations
+29	South Division 2 South Street Operations
+31	CityWide Special Events 1
+33	CityWide Special Events 2
+35	Police Academy Training Operations
+37	CityWide Civil Affairs Division
+39	CityWide Police Commanders
+41	CityWide Dignitary Unit
+43	CityWide Homicide Division  Special Investigations Unit
+45	CityWide Homicide Division  Line Squad
+47	CityWide Homicide Division  Fugitive Squad
+49	CityWide Impact Operations 1
+51	CityWide Impact Operations 2
+53	CityWide Impact Operations 3
+55	CityWide Internal Affairs Bureau Operations 1
+57	CityWide Internal Affairs Bureau Operations 2
+59	CityWide Integrity Control Division
+61	CityWide Explosive Ordinance Disposal Unit
+63	CityWide Organized Crime Bureau  
+65	CityWide Aviation Division Operations
+67	CityWide SWAT Operations
+69	CityWide Warrant Unit
+71	CityWide Police All Group
+73	Internal Affairs Bureau  Squad 10 Operations
+75	Internal Affairs Bureau  Squad 11 Operations
+77	Internal Affairs Bureau  Squad 12 Operations
+79	Internal Affairs Bureau  Squad 13 Operations
+81	Internal Affairs Bureau  Squad 14 Operations
+83	CityWide Investigations 1
+85	CityWide Investigations 2
+87	CityWide Vice Division 1
+89	CityWide Vice Division 2
+91	CityWide ATF Cease Fire Squad
+93	CityWide Major Crime Division Operations 1
+95	CityWide Major Crime Division Operations 2
+97	CityWide Major Crime Division Operations 3
+99	Narcotics Field Unit  South Division 1
+101	Narcotics Field Unit  South Division 2
+103	Narcotics Field Unit  South Division 3
+105	Narcotics Field Unit  East Division 1
+107	Narcotics Field Unit  East Division 2
+109	Narcotics Field Unit  East Division 3
+111	Narcotics Field Unit  East Division 4
+113	Narcotics Field Unit  North Division 1
+115	Narcotics Field Unit  North Division 2
+117	Narcotics Field Unit  North Division 3
+119	CityWide Strike Force Operations 1
+121	CityWide Strike Force Operations 2
+123	CityWide Strike Force Operations 3
+125	CityWide Narcotics Investigations 1
+127	CityWide Narcotics Investigations 2
+129	CityWide Narcotics Investigations 3
+131	2nd District Tactical
+135	Auto Theft Task Force
+139	6th District Tactical
+141	7th District Tactical
+143	8th District Tactical
+145	9th District Tactical
+147	12th District Tactical
+149	16th District Tactical
+153	18th District Tactical
+155	19th District Tactical
+157	22nd District Tactical
+159	39th District Tactical
+161	14th District Tactical
+163	15th District Tactical
+165	24th District Tactical
+167	25th District Tactical
+169	26th District Tactical
+171	35th District Tactical
+181	Abington Hospital
+183	Aria Frankford Hospital
+185	Aria Torresdale Hospital
+187	Chestnut Hill Hospital
+189	Childrens Hospital of Philadelphia
+191	Albert Einstein Medical Center
+195	Episcopal Hospital
+199	Holy Redeemer Hospital ER
+201	Hospital of the University of Pennsylvania
+203	Jeanes Hospital
+205	Lankenau Hospital
+207	Mercy Fitzgerald Hospital ER
+209	Mercy Philadelphia Hospital
+211	Methodist Hospital
+213	Nazareth Hospital
+215	Penn Presbyterian Medical Center
+217	Pennsylvania Hospital
+219	Roxborough Memorial Hospital
+221	St Christophers Hospital ER
+223	Temple University Hospital
+225	Thomas Jefferson University Hospital
+235	Central EMS Dispatch Central Medic
+237	North Fire Dispatch
+239	South Fire Dispatch
+241	North EMS Dispatch North Medic
+243	South EMS Dispatch South Medic
+245	South Fire and EMS Tactical 1
+247	South Fire and EMS Tactical 2
+249	South Fire and EMS Tactical 3
+251	CityWide Fire Administration
+253	North Fire and EMS Tactical 1
+255	North Fire and EMS Tactical 2
+257	North Fire and EMS Tactical 3
+259	CityWide Fire and EMS All Group
+261	Police Fire and EMS InterAgency Tactical Operations 1
+263	Police Fire and EMS InterAgency Tactical Operations 2
+265	CityWide Heavy Rescue Operations
+267	CityWide Hazardous Materials Team Operations
+269	DA Operations 1
+271	PSO All Group
+273	Emergency Operations Center 1
+275	Emergency Operations Center 2
+277	Emergency Operations Center 3
+279	Emergency Operations Center  All Group
+281	KPHL  Police Operations Main
+283	KPHL  Fire Operations Main
+285	KPHL  Emergency Operations 1
+287	KPHL  Systems Control Operations
+289	KPHL  Executive Operations
+291	KPHL  Airport Operations
+293	KPNE  Operations
+295	KPHL  Engineering Operations
+297	KPHL  Maintenance Operations 1
+299	KPHL  Maintenance Operations 2
+301	KPHL  Maintenance Operations 3
+303	KPHL  Special Operations 1
+305	KPHL  Special Operations 2
+309	KPHL  Emergency Operations 2
+311	KPHL  Fire Operations Engine 78
+313	Dispatch
+315	Fleet Dispatch
+319	PP Dispatch
+321	CityWide  Municipal Dispatch
+323	CityWide Event 1
+325	CityWide Event 2
+327	CityWide Event 3
+331	LI Dispatch
+335	PSO Dispatch
+337	SW Water Pollution Control Plant 1
+339	Operations Administration
+341	DA Narcotics Division
+343	DA Investigations
+345	Industrial Waste Unit
+347	Collector Control Operations
+349	Sewer Maintenance Operations
+351	Inlet Cleaning Operations
+353	Flow Control Operations
+355	Security Operations
+357	Unknown Operations
+359	Load Control Operations
+361	Distribution ESS
+363	Pump Operations
+365	Dept Common
+367	Queen Lane Water Treatment Plant Operations
+369	Fleet  Administration 1
+371	Fleet  Administration 2
+373	Fleet  Administration 3
+375	Fleet Quality Assurance Team
+377	Fleet  Distribution
+379	Fleet Operations 1
+381	Fleet Operations 2
+401	Office of the Mayor Operations
+403	PP Event 1
+405	PP Event 2
+421	Sanitation Dispatch
+445	LI Administration
+447	LI Operations 1
+449	LI Operations 2
+453	Transportation
+459	PSO Operations
+461	PSO Warrant Unit
+463	All Group
+465	DA All Group
+467	Operations Collector All Group
+469	Operations All Group
+471	FJD Warrant Unit
+473	FJD Dispatch
+475	KPHL  Communications Center
+477	DA Operations 2
+483	PDPH All Group
+485	Fleet All Group
+493	PP All Group
+503	LI All Group
+515	PDPH Dispatch
+517	PDPH Medical Examiner
+519	PDPH Environmental Health Services Unit
+521	PDPH HFAC Management
+523	PDPH Air Quality Management
+525	Engineering
+527	Emergency
+531	Alternative and Special Detention
+533	Prisons All Group
+535	PSO Administration
+537	Fleet Executive Operations
+559	PCA Riverview Home
+565	Belmont Water Treatment Plant Primary
+567	Belmont Water Treatment Plant Secondary
+570	Motorola Radio Technicians  Test Group A
+571	Motorola Radio Technicians  Test Group B
+572	Motorola Radio Technicians  Test Group C
+573	Motorola Radio Technicians  Test Group D
+574	Motorola Radio Technicians  Test Group E
+575	Motorola Radio Technicians  Test Group F
+603	Passyunk Base Bus Operations
+605	Shallcross Base Bus Operations
+607	Widener Base Bus Operations
+609	Alternative Base Bus Operations
+611	Street Supervisor Operations
+613	Police Operations
+615	Security Operations
+617	Operations
+619	Crossing Guards
+630	Drexel University PD Dispatch
+701	PSO Family Court Security
+805	Operations 805
+807	Operations 807
+809	Operations 809
+815	Operations 815
+817	Operations 817
+837	Fire Dispatch Announcements
+1001	Housing Police Operations 1
+1003	Housing Police Operations 2
+1301	Administration
+1303	Parking Enforcement and Boot Squad
+1305	Tow Squad  Impound Lot  Taxi Enforcement
+1535	CurranFromhold Correctional Facility
+1539	Detention Center
+1541	Philadelphia Industrial Correctional Center
+1543	Riverside Correctional Facility
+1707	PSO Criminal Justice Center Security
+1711	PSO Family Court Security 1
+1713	PSO Family Court Security 2
+4017	SEPTA PD Dispatch Rebroadcast
